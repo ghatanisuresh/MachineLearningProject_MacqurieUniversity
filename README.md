@@ -69,7 +69,7 @@ The CSV filenames follow this format:
 - Deep learning submission: `46864512-deep-YYY.csv`
 
 
-## [Leaderboard with Private Dataset](/workspaces/MachineLearningProject_MacqurieUniversity/KaggleLeaderboard.md)
+## [Leaderboard with Private Dataset](https://github.com/ghatanisuresh/MachineLearningProject_MacqurieUniversity/blob/main/KaggleLeaderboard.md)
 
 The private leaderboard reflects the final standings of the competition, calculated over the same rows as the public leaderboard.
 
