@@ -47,5 +47,6 @@ The private leaderboard reflects the final standings of the competition, calcula
 
 Below is a summary of my submissions for the private leaderboard, highlighting the different model approaches and their respective scores.
 
-![Submission Overview](./image.png)
 
+
+![alt text](image.png)
