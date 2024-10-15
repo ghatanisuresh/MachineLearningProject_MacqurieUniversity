@@ -19,7 +19,7 @@ The private leaderboard reflects the final standings of the competition, calcula
 | 9    | Alireza Shammasi           |                          | 0.62342 | 5       | 2y             |
 | 10   | Vaibhav Singh              |                          | 0.61541 | 7       | 2y             |
 | 11   | Umut Demirhan              |                          | 0.59688 | 6       | 2y             |
-| 12   | Suresh Ghatani             |                          | 0.58003 | 7       | 2y             |
+| 12   | **Suresh Ghatani**         |                          | 0.58003 | 7       | 2y             |
 | 13   | Faisal Rahman              |                          | 0.57160 | 10      | 2y             |
 | 14   | Proteek Kumar Sanyal       |                          | 0.57118 | 11      | 2y             |
 | 15   | Aditya Raj Khatri          |                          | 0.55897 | 6       | 2y             |
@@ -40,4 +40,12 @@ The private leaderboard reflects the final standings of the competition, calcula
 |      | Sample.csv                 |                          | 0.42207 |         |                 |
 | 30   | Maecie Claire Rayo         |                          | 0.42207 | 2       | 2y             |
 | 31   | Harish Reddy               |                          | 0.42207 | 1       | 2y             |
+
+
+
+## Submission Overview
+
+Below is a summary of my submissions for the private leaderboard, highlighting the different model approaches and their respective scores.
+
+![Submission Overview](./image.png)
 
