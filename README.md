@@ -55,4 +55,46 @@ The repository contain the following components:
 ├── results/                  # CSV files with predicted labels for public and private test sets
 ├── README.md                 # Project documentation (this file)
 
+```
+
+## Kaggle InClass Submissions
+
+All results is submitted through the Kaggle InClass competition portal. The submission format is as follows:
+- CSV file with two columns: `ID` and `Prediction`.
+  - `ID`: Row number corresponding to the image.
+  - `Prediction`: Predicted age group (0, 1, or 2).
+
+The CSV filenames follow this format:
+- Conventional ML submission: `46864512-conv-YYY.csv`
+- Deep learning submission: `46864512-deep-YYY.csv`
+
+## How to Run the Project
+
+1. **Install dependencies**:
+   Ensure you have the required Python libraries installed. The key libraries are `numpy`, `pandas`, `scikit-learn`, `matplotlib`, and `tensorflow/keras`.
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. **Load the datasets**:
+   The datasets are available in the Kaggle competition page. Download and place them in the `data/` directory.
+
+3. **Run the Jupyter notebooks**:
+   Open and run the notebooks in the `notebooks/` directory to train models and make predictions.
+
+4. **Generate predictions**:
+   After training, generate predictions on the test set and export them to a CSV file for submission.
+
+## Evaluation Criteria
+
+The project is evaluated based on:
+- Accuracy of predicted labels on public and private test datasets.
+- Quality of code and documentation.
+- Thoroughness of the discussion on model performance, feature selection, and comparison between conventional ML and deep learning approaches.
+  
+## Future Work
+- Experiment with additional feature extraction methods.
+- Improve deep learning models using data augmentation and transfer learning techniques.
+- Analyze the effect of noisy data on model performance.
 
