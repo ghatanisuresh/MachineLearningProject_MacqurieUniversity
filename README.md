@@ -68,6 +68,15 @@ The CSV filenames follow this format:
 - Conventional ML submission: `46864512-conv-YYY.csv`
 - Deep learning submission: `46864512-deep-YYY.csv`
 
+
+## Leaderboard with Private Dataset
+
+The private leaderboard reflects the final standings of the competition, calculated over the same rows as the public leaderboard.
+
+**Summary**:
+In this competition, my submission (under the name **Suresh Ghatani**) ranked 12th with a private score of **0.58003**. This was achieved using various approaches including deep learning models (CNN) and conventional machine learning techniques (SVM, Random Forest). The highest-performing model, a deep CNN, secured a score of **0.58003** on both the public and private test sets. Other methods, such as an SVM model with normalized features, also yielded competitive results with a score of **0.53706**.
+
+
 ## How to Run the Project
 
 1. **Install dependencies**:
