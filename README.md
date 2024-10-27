@@ -77,25 +77,6 @@ The private leaderboard reflects the final standings of the competition, calcula
 
 In this competition, my submission (under the name **Suresh Ghatani**) ranked 12th with a private score of **0.58003**. This was achieved using various approaches including deep learning models (CNN) and conventional machine learning techniques (SVM, Random Forest). The highest-performing model, a deep CNN, secured a score of **0.58003** on both the public and private test sets. Other methods, such as an SVM model with normalized features, also yielded competitive results with a score of **0.53706**.
 
-
-## How to Run the Project
-
-1. **Install dependencies**:
-   Ensure you have the required Python libraries installed. The key libraries are `numpy`, `pandas`, `scikit-learn`, `matplotlib`, and `tensorflow/keras`.
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **Load the datasets**:
-   The datasets are available in the Kaggle competition page. Download and place them in the `data/` directory.
-
-3. **Run the Jupyter notebooks**:
-   Open and run the notebooks in the `notebooks/` directory to train models and make predictions.
-
-4. **Generate predictions**:
-   After training, generate predictions on the test set and export them to a CSV file for submission.
-
 ## Evaluation Criteria
 
 The project is evaluated based on:
